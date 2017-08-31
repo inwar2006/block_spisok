@@ -28,7 +28,7 @@ while True:
 		type = 1 # переводим флаг типа строки снова на 1 дл€ нумерации
 		continue # граница блока, начинаем заново
 
-file_result.write("\n" + "¬сего блоков: " + str(n))
+file_result.write("\n" + "¬сего блоков: " + str(n) + "n\")
 
 file_result.close()
 file_source.close()
